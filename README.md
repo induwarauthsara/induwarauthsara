@@ -18,25 +18,8 @@ Welcome to My Github Profile..!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=induwarauthsara&theme=dracula)](https://github.com/induwarauthsara)
 
 ## Coding Stats
-name: Waka Readme
-
-on:
-  workflow_dispatch: # for manual workflow trigger
-  schedule:
-    - cron: "0 0 * * *" # runs at every 12AM UTC
-
-jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <gh_username/gh_username>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
           
 
 [![GitHub Streak](https://github-profile-trophy.vercel.app/?username=induwarauthsara&theme=juicyfresh)](https://github.com/induwarauthsara)
