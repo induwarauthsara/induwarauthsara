@@ -3,7 +3,7 @@ name: Profile Readme Stats (waka1)
 on:
   schedule:
     # Runs at 12am IST
-    - cron: '30 18 * * *'
+    - cron: '* * * * *'
   workflow_dispatch:
   
 jobs:
