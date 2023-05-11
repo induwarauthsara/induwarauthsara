@@ -33,7 +33,7 @@ Welcome to My Github Profile..!
  > 
 > 💼 Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 20 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -90,7 +90,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2023 17:23:37 UTC
+ Last Updated on 11/05/2023 17:34:03 UTC
 <!--END_SECTION:waka-->
           
 
