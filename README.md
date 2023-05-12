@@ -19,7 +19,7 @@ Welcome to My Github Profile..!
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,7 +29,7 @@ Welcome to My Github Profile..!
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 149 Contributions in the Year 2023
+> 🏆 153 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +90,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2023 17:18:17 UTC
+ Last Updated on 12/05/2023 17:28:16 UTC
 <!--END_SECTION:waka-->
           
 
