@@ -29,7 +29,7 @@ Welcome to My Github Profile..!
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 153 Contributions in the Year 2023
+> 🏆 149 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +90,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2023 17:28:16 UTC
+ Last Updated on 12/05/2023 17:38:20 UTC
 <!--END_SECTION:waka-->
           
 
