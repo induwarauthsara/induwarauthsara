@@ -64,14 +64,13 @@ Sunday                   161 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-PHP                      1 hr 25 mins        █████████████████████░░░░   85.95 % 
-CSS                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -87,7 +86,7 @@ CSS                      4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 05/10/2023 18:36:55 UTC
+ Last Updated on 05/10/2023 18:46:48 UTC
 <!--END_SECTION:waka-->
           
 
