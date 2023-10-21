@@ -19,7 +19,7 @@ Welcome to My Github Profile..!
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-148%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -64,13 +64,14 @@ Sunday                   161 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      2 hrs 25 mins       ████████████████████████░   97.75 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -86,7 +87,7 @@ CSS                      4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 21/10/2023 18:30:27 UTC
+ Last Updated on 21/10/2023 18:40:13 UTC
 <!--END_SECTION:waka-->
           
 
