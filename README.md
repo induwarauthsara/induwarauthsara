@@ -29,7 +29,7 @@ Welcome to My Github Profile..!
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 180 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -86,7 +86,7 @@ CSS                      4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 14/11/2023 17:46:30 UTC
+ Last Updated on 14/11/2023 17:57:00 UTC
 <!--END_SECTION:waka-->
           
 
