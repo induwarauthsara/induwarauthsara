@@ -19,7 +19,7 @@ Welcome to My Github Profile..!
 
 ## Coding Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,7 +88,7 @@ CSS                      4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 30/01/2024 19:46:28 UTC
+ Last Updated on 30/01/2024 19:56:20 UTC
 <!--END_SECTION:waka-->
           
 
