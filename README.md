@@ -29,11 +29,11 @@ Welcome to My Github Profile..!
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2024
+> 🏆 2 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -86,7 +86,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2024 17:27:50 UTC
+ Last Updated on 09/02/2024 17:38:14 UTC
 <!--END_SECTION:waka-->
           
 
