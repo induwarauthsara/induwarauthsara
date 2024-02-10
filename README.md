@@ -33,7 +33,7 @@ Welcome to My Github Profile..!
  > 
 > 💼 Opted to Hire
  > 
-> 📜 26 Public Repositories 
+> 📜 25 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -86,7 +86,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2024 12:00:02 UTC
+ Last Updated on 10/02/2024 12:31:26 UTC
 <!--END_SECTION:waka-->
           
 
