@@ -29,7 +29,7 @@ Welcome to My Github Profile..!
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2024
+> 🏆 4 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -86,7 +86,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2024 16:12:05 UTC
+ Last Updated on 10/02/2024 16:28:51 UTC
 <!--END_SECTION:waka-->
           
 
