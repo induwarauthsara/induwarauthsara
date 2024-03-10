@@ -29,8 +29,6 @@ Welcome to My Github Profile..!
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 123 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -86,7 +84,7 @@ CSS                      4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 10/03/2024 18:27:18 UTC
+ Last Updated on 10/03/2024 18:38:01 UTC
 <!--END_SECTION:waka-->
           
 
