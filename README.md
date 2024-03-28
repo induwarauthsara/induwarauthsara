@@ -29,7 +29,7 @@ Welcome to My Github Profile..!
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 194 Contributions in the Year 2024
+> 🏆 193 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -86,7 +86,7 @@ Python                   4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 28/03/2024 10:20:28 UTC
+ Last Updated on 28/03/2024 10:32:16 UTC
 <!--END_SECTION:waka-->
           
 
