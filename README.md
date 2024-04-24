@@ -22,7 +22,7 @@ Welcome to My Github Profile..!
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
@@ -30,7 +30,7 @@ Welcome to My Github Profile..!
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 272 Contributions in the Year 2024
+> 🏆 270 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -87,7 +87,7 @@ Python                   4 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 24/04/2024 05:58:49 UTC
+ Last Updated on 24/04/2024 06:26:42 UTC
 <!--END_SECTION:waka-->
           
 
