@@ -30,7 +30,7 @@ Welcome to My Github Profile..!
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 276 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -87,7 +87,7 @@ JavaScript               5 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 21/05/2024 05:39:03 UTC
+ Last Updated on 21/05/2024 05:49:02 UTC
 <!--END_SECTION:waka-->
           
 
