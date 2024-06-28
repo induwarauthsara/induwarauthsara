@@ -77,17 +77,17 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      14 repos            ████████░░░░░░░░░░░░░░░░░   32.56 % 
-JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+PHP                      14 repos            ████████░░░░░░░░░░░░░░░░░   31.82 % 
+JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+CSS                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 28/06/2024 10:17:40 UTC
+ Last Updated on 28/06/2024 10:34:02 UTC
 <!--END_SECTION:waka-->
           
 
