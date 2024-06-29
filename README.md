@@ -79,15 +79,15 @@ No Activity Tracked This Week
 ```text
 PHP                      14 repos            ████████░░░░░░░░░░░░░░░░░   31.82 % 
 JavaScript               10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-CSS                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+CSS                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 29/06/2024 11:58:34 UTC
+ Last Updated on 29/06/2024 12:34:27 UTC
 <!--END_SECTION:waka-->
           
 
