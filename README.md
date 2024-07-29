@@ -30,7 +30,7 @@ Welcome to My Github Profile..!
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 394 Contributions in the Year 2024
+> 🏆 393 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -87,7 +87,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2024 05:44:30 UTC
+ Last Updated on 29/07/2024 05:54:13 UTC
 <!--END_SECTION:waka-->
           
 
