@@ -8,7 +8,7 @@ Welcome to My Github Profile..!
 
 - :earth_americas:	I'm From Sri Lanka :sri_lanka:
 - 🚀 Passionate about **AI, Full-stack Web Development, DevOps, Cybersecurity**, and emerging technologies. 🤖🌐🔒
-- 🔭 I’m currently working on CyberTech LK, Creative Galle, Srijaya Print House 
+- 🔭 I’m currently working on [CyexTech Solution](https://cyextech.com), [Srijaya Print House](http://srijaya.lk/)
 - 🌱 I’m currently learning [Web & Mobile Development](https://github.com/induwarauthsara/induwarauthsara/blob/main/README.md#my-languages--tools) :desktop_computer:
 - 📫 How to reach me: [induwarauthsara19@gmail.com](mailto:induwarauthsara19@gmail.com) or [Social Media](https://github.com/induwarauthsara/induwarauthsara/blob/main/README.md#connect-with-me) :hearts:	
 
