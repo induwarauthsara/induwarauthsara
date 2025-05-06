@@ -30,8 +30,6 @@ Welcome to My Github Profile..!
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -87,7 +85,7 @@ CSS                      5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2025 11:52:23 UTC
+ Last Updated on 06/05/2025 12:18:21 UTC
 <!--END_SECTION:waka-->
           
 
